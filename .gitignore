@@ -1,0 +1,40 @@
+# Node modules
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Environment variables
+.env
+.env.local
+.env.production
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# PHP files (not needed for Node.js backend)
+*.php
+hostinger/
+
+# Testing
+coverage/
+.nyc_output/
+
+# Build
+dist/
+build/
+
+# Temporary files
+tmp/
+temp/
